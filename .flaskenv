@@ -1,0 +1,2 @@
+FLASK_APP=microform.py
+FLASK_ENV=development
